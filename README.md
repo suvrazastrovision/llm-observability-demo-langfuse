@@ -4,7 +4,7 @@ A small demo that recommends an ice-cream flavour from a randomly selected
 list. It uses OpenAI for request generation and recommendations, and Langfuse
 for prompt management and tracing.
 
-![Ice-cream recommendation app overview](assets/ice-cream-app-overview.png)
+![Demo overview: an OpenAI-generated customer request and five available flavours lead to a Dark Chocolate recommendation, with Langfuse managing the prompt and tracing both model calls.](assets/ice-cream-app-overview.png)
 
 ## How it works
 
